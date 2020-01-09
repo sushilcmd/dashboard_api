@@ -1,0 +1,16 @@
+{
+  "name": "akhilesh_dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard Backend API for Restaurants order data",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "author": "Jaspreet Singh -- Fearless",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "moment": "^2.22.1",
+    "mongodb": "^3.3.5"
+  }
+}
